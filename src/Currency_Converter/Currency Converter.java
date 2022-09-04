@@ -17,7 +17,7 @@ public class CC {
 	    {
 	  
 	        // Creating a new frame using JFrame
-	        JFrame f = new JFrame("CONVERTER");
+	        JFrame f = new JFrame("Converter");
 	  
 	        // Creating two labels
 	        JLabel l1, l2;
